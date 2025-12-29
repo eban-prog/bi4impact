@@ -21,7 +21,7 @@ Visão agregada inter-organizacional de Lisboa
 ## 🎯 NÍVEL 1: APP DO TÉCNICO
 
 ### **Público-Alvo:**
-Técnicos de emprego apoiado (ex: Maria Almeida, Rui Gomes, Sofia Carvalho, Inês Pereira)
+Técnicos de emprego (ex: Maria Almeida, Rui Gomes, Sofia Carvalho, Inês Pereira)
 
 ### **Objetivo:**
 Acompanhamento diário e individualizado de candidatos
@@ -335,3 +335,4 @@ Inteligência coletiva para compreensão sistémica do fenómeno da empregabilid
 ---
 
 **Baseado na estrutura ÉBAN** - mantendo os princípios éticos, design e filosofia, adaptado para o contexto específico da empregabilidade em Lisboa.
+
